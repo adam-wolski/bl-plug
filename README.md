@@ -8,4 +8,4 @@ Blender add-on for add-on management using git.
 # Usage
 * Add repository path in Addon Preferences window.
 * Press Update All
-* You can use Update Plug button to keep Plugs itself updated.
+* You can use Update Plug button to keep Plug itself updated.
